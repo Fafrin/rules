@@ -4,7 +4,7 @@
 ## § 1 Záměr
  1. Výběrová řízení(§ 6 PraH) jsou hlavním prostředkem umožňujícím vybrat kvalitního dodavatele produktů a práce.
  2. Potřeba placeného dodavatele musí být stanovena v **záměru**(§ 10 PraH), který schvaluje příslušný orgán strany. **Návrh záměru** předkládá schvalujícímu orgánu příslušná organizační složka.(§ 8(1)d) RoPr) 
- 3. Návrh záměru musí určovat **předmět nákupu**, **cenový limit**(§ 10(2) PraH), **typ výběrového řízení**(§ 2) a hospodáře(§ 4 PraH) odpovědného za realizaci nákupu(**realizátora**), případně **prostředky na realizaci** výběru (např. náklady na inzerci). Záměr dále definuje i personální složení výběrové komise.
+ 3. Návrh záměru musí určovat **předmět nákupu**, **cenový limit**(§ 10(2) PraH), **typ výběrového řízení**(§ 2) a hospodáře(§ 4 PraH) odpovědného za realizaci nákupu(**realizátora**), případně **prostředky na realizaci** výběru (např. náklady na inzerci). Záměr dále definuje i personální složení **výběrové komise**, pokud je třeba.
 
 ## § 2 Typ výběrového řízení
 ### 1. Marketingový průzkum 
@@ -40,8 +40,8 @@ Hospodář stanoví konkrétní kvalitativní parametry a uvede je do hodnotíc�
 Hodnotícím parametrem může být i zpětná vazba od referenčních zákazníků, případně i hodnocení Pirátů (u dodavatelů, kteří Pirátské straně již dodávali). V případě negativních referencí může být uchazeč z výběrového řízení vyloučen (zejména v případě předchozí nespokojenosti s příslušným dodavatelem).
 Výběrové řízení může být v odůvodněných případech dvoukolové. Základním důvodem pro dvoukolové výběrové řízení, může být časová náročnost hodnotícího procesu. Cílem prvního kola je výběr menší skupiny nejlepších uchazečů, jejichž další nabídky bude výběrová komise v požadovaných termínech schopna vyhodnotit.
 Hospodář zveřejňuje na informačních systémech strany (fórum) zadávací dokumentaci, obeslané uchazeče a odkazy na případnou inzerci (i neplacenou). V případě dvoukolového výběrového řízení zveřejňuje seznam postupujících do druhého kola a zadávací dokumentaci pro druhé kolo.
-Hodnotící komisi jmenuje zadávající orgán, práci komise řídí hospodář, který je odpovědný i za celý průběh výběrového řízení. Členy komise vybírá zadavatel z členské základny a v odůvodněných případech přizve i nezávislé odborníky. Při zadání jsou určeni i náhradníci do komise. Doporučené složení hodnotící komise:
-Hospodář
+Hodnotící komisi jmenuje zadávající orgán, práci komise řídí realizátor. Členy komise vybírá zadavatel z členské základny a v odůvodněných případech přizve i nezávislé odborníky. Při zadání jsou určeni i náhradníci do komise. Doporučené složení hodnotící komise:
+Realizítor
 Zástupce zadávajícího orgánu
 Zástupce uživatele
 Odborník pro příslušnou oblast
