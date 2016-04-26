@@ -3,28 +3,30 @@
 
 ## § 1 Záměr
  1. Výběrová řízení(§ 6 PraH) jsou hlavním prostředkem umožňujícím vybrat kvalitního dodavatele produktů a práce.
- 2. Potřeba placeného dodavatele musí být stanovena v **záměru**(§ 10 PraH), který schvaluje příslušný orgán strany. **Návrh záměru** předkládá schvalujícímu orgánu příslušná organizační složka.(§ 8(1)d) RoPr) 
+ 2. Potřeba placeného dodavatele musí být stanovena v **záměru**(§ 10 PraH), který schvaluje příslušný orgán strany. **Návrh záměru** předkládá schvalujícímu orgánu příslušná organizační složka (**zadavatel**).(§ 8(1)d) RoPr) 
  3. Návrh záměru musí určovat **předmět nákupu**, **cenový limit**(§ 10(2) PraH), **typ výběrového řízení**(§ 2) a hospodáře(§ 4 PraH) odpovědného za realizaci nákupu(**realizátora**), případně **prostředky na realizaci** výběru (např. náklady na inzerci). Záměr dále definuje i personální složení **výběrové komise**, pokud je třeba.
 
 ## § 2 Typ výběrového řízení
-### 1. Marketingový průzkum 
-Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem MP není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
-### 2. Výběr dodavatele produktu
-((zboží i služeb))
+  1. **Marketingový průzkum** 
+  
+  Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem MP není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
+  2. **Výběr dodavatele produktu** ((zboží i služeb))
+  
+  Cílem je vybrat konkrétního dodavatele ve veřejném výběrovém řízení. 
+  3. **Výběr zaměstnance**, nebo dodavatele práce
+  Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce.
 
-Cílem je vybrat konkrétního dodavatele ve veřejném výběrovém řízení. 
-### 3. Výběr zaměstnance, nebo dodavatele práce
-Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce.
+## § 3 Marketingový průzkum
+  1. Potřebu marketingového průzkumu může navrhnout realizátor zadavateli, nebo zadavatel v rámci návrhu záměru.(§ 1(2))
+  2. Realizátor stanoví způsob provedení marketingového průzkumu. V případě potřeby navrhne potřebu financování nákladů spojených s realizací průzkumu (např. inzerci). 
+  3. //Na informačních prostředcích Pirátů (nyní fórum) hospodář zveřejní text výběru, seznam obeslaných a případné odkazy na inzerci.//
+  4. Výsledky průzkumu nejsou zveřejněny, ale předloženy zadavateli. Slouží jako podklad pro vypsání konkrétních výběrových řízení. Výsledky budou být zveřejněny až po ukončení následného výběrového řízení.
 
-## 3. (a) Marketingový průzkum
-Potřebu marketingového průzkumu může  navrhnout hospodář nebo nakupující orgán. Příslušný hospodář stanoví způsob provedení marketingového průzkumu. V případě potřeby navrhne potřebu financování nákladů spojených s realizací průzkumu (např. inzerci). Na informačních prostředcích Pirátů (nyní fórum) hospodář zveřejní text výběru, seznam obeslaných a případné odkazy na inzerci.
-Metodu způsob provedení průzkumu určuje hospodář.
-Výsledky průzkumu nejsou zveřejněny, ale předloženy zadavateli. Slouží jako podklad pro vypsání konkrétních výběrových řízení. Výsledky mohou být zveřejněny až po ukončení následného výběrového řízení, které vybere konkrétního dodavatele.
-
-## 4. (b) Výběr dodavatele produktů
-Výběr dodavatele s garantovanou kvalitou
-Cílem výběru je vybrat dodavatele s co nejnižší cenou. Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie).
-Zveřejnění zadání výběrového řízení. Hospodář může pro účely výběru dodavatele použít i aukci. V každém případě je hospodář povinen uveřejnit text zadání výběrového řízení na informačních prostředcích strany (web).
+## § 4 Výběr dodavatele produktů
+  1. Výběr dodavatele s garantovanou kvalitou. 
+  Cílem výběru je vybrat dodavatele s co nejnižší cenou. Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie).
+  2. Zveřejnění zadání výběrového řízení.
+  Hospodář může pro účely výběru dodavatele použít i aukci. V každém případě je hospodář povinen uveřejnit text zadání výběrového řízení na informačních prostředcích strany (web).
 V zadávací dokumentaci musí být uveden předmět a termín (období) požadované  dodávky a termín a způsob požadovaného dodání nabídky, případně pravidla aukce. Hodnotícím kritérium je cena.
 V zadávací dokumentaci musí být jednoznačně stanoveny základní požadavky na dodavatele, které musí být splněny.
 Návrh smlouvy je součástí nabídky dodavatele, není-li v záměru rozhodnuto jinak
@@ -33,7 +35,7 @@ Hodnotící komise ověří splnění základních požadavků. Uchazeči, kteř
 Hospodář vybere z hodnocených nabídek nabídku s nejnižší cenou.
 Výsledek výběrového řízení oznamuje uchazečům hospodář. Hospodář je odpovědný i za následné řešení smluvního vztahu.  
 
-Výběr dodavatele s požadavky na kvalitu 
+## § 5 Výběr dodavatele s požadavky na kvalitu 
 V zadávací dokumentaci musí být jednoznačně uvedeny základní požadavky, které musí nabízející splnit (např. termín, množství, konkrétní parametr)
 Základním požadavkem ověřujícím schopnost dodávky požadovaných produktů jsou reference od jiných zákazníků. Rozsah požadovaných referencí určuje hospodář. Výjimku z požadavku na reference v zadávací dokumentaci může povolit v odůvodněných případech pouze zadávající orgán.
 Hospodář stanoví konkrétní kvalitativní parametry a uvede je do hodnotící tabulky. Ke každému hodnotícímu parametru stanoví „váhu“ (procentuální podíl na celkovém hodnocení) a hodnotovou škálu (např. body z pořadí uchazečů v hodnoceném parametru). Způsob hodnocení musí být uveden v zadávací dokumentaci.
