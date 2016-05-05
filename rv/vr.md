@@ -40,31 +40,28 @@
   9. Nabídky musí být zasílány na emailovou adresu do schránky, k jejímuž obsahu nebude mít až do termínu ukončení přijímání nabídek nikdo přístup. V případě obdržení písemných nabídek, musí být tyto nerozbaleny až do stanoveného termínu přijímání nabídek. 
   10. Rozsah zveřejnění obsahu nabídek určuje realizátor už v zadávací dokumentaci. Standardní je kompletní zveřejnění předložených nabídek. Omezení zveřejnění některých částí nabídek musí být předem zdůvodněno.
   11. Rozsah zveřejnění výsledků průběhu hodnocení ve výběrovém řízení stanovuje realizátor. Tabulka hodnocení požadavků jednotlivými členy komise musí být zveřejněna vždy.
-  12. Výsledek výběrového řízení oznamuje uchazečům realizátor. Realizátor je odpovědný i za následné řešení smluvního vztahu.  
+  12. Výsledek výběrového řízení oznamuje uchazečům realizátor. Realizátor je odpovědný i za následné řešení smluvního vztahu.
+
 ## § 5  Výběr zaměstnance, nebo dodavatele práce
-Zadavatel musí v rámci záměru stanovit přímého nadřízeného přijímaného. Optimální je, aby byl současně hospodářem pro příslušný záměr.
-Zadavatel musí v rámci záměru stanovit konkrétní náplň práce, na jejíž výkon je hledán pracovník.
-Zadavatel musí v rámci záměru stanovit očekávaný rozsah nakupované práce (měsíční časový rámec, typ pracovního vztahu)
-Určený hospodář zajistí účelu odpovídající zveřejnění poptávky. Poptávka musí být vždy zveřejněna i na vnitřních (fórum) a vnějších (web) komunikačních prostředcích strany.
-Výběr je vždy dvoukolový. Účelem prvního kola je především vyloučení nevhodných uchazečů (nesplní základní požadavky, uchazeč není ve shodě s politikou strany. Do druhého kola mohou postoupit pouze uchazeči, jejichž případné angažmá může být pro stranu přínosem. První kolo může také sloužit k zúžení počtu hodnocených v druhém kole (s ohledem na pracovní kapacitu hodnotící komise). Do druhého kole může postoupit maximálně 6 uchazečů.
-V druhém kole musí komise se všemi uchazeči ověřovat jejich schopnosti a zájem formou osobního pohovoru (což nevylučuje současně použít i další prostředky ověřování kvalit)
-Hospodář zveřejňuje na informačních systémech strany (fórum) zadávací dokumentaci a odkazy na případnou inzerci (i neplacenou). 
-Hodnotící komisi jmenuje zadávající orgán, práci komise řídí hospodář, který je odpovědný i za celý průběh výběrového řízení. Členy komise vybírá zadavatel z členské základny a v odůvodněných případech přizve i nezávislé odborníky. Členem komise musí být vždy budoucí nadřízený pracovníka. Při zadání jsou určeni i náhradníci do komise. Doporučené složení hodnotící komise:
-Hospodář (obvykle přímý nadřízený)
-Zástupce zadávajícího orgánu
-Zástupce Personálního odboru
-Odborník pro příslušnou oblast
-Odborník pro příslušnou oblast
-Budoucí nadřízený pracovníka má právo odmítnout kteréhokoliv uchazeče.
-O průběhu výběrového řízení vede realizátor záznam v určeném informačním prostředku strany ((redmie, fórum)). Uvádí zde termíny a obsah (v přiměřeném rozsahu) jednání hodnotící komise a případnou komunikaci s uchazeči (dotazy-odpovědi apod.)
-Nabídky musí být zasílány na emailovou adresu do schránky, k jejímuž obsahu nebude mít až do termínu ukončení přijímání nabídek nikdo přístup. V případě obdržení písemných nabídek, musí být tyto nerozbaleny až do stanoveného termínu přijímání nabídek. 
-Vzhledem k tomu, že uchazeči předkládají při nabídce osobní informace, musí být v zadávací dokumentaci zveřejněn rozsah informací, které budou po vyhodnocení výběrového řízení zveřejněny. Rozsah zveřejnění obsahu nabídek neúspěšných uchazečů může být značně omezen. Nabídka vítězného uchazeče musí být zveřejněna na vnitřních komunikačních prostředcích strany (po odstranění osobních údajů).
-Budoucí nadřízený stanoví konkrétní kvalitativní parametry potřebné pro výkon práce a uvede je do hodnotící tabulky. Ke každému hodnotícímu parametru stanoví „váhu“ (procentuální podíl na celkovém hodnocení) a hodnotovou škálu (např. body z pořadí uchazečů v hodnoceném parametru).
-S vítězným uchazečem bude uzavřena smlouva dle návrhu České pirátské strany ze dle šablon strany (https://www.pirati.cz/ao/sablony/start)
-Za zveřejnění informací o výběrovém řízení odpovídá hospodář, hodnocení uchazečů jednotlivými členy komise musí být zveřejněno vždy.
-Výsledek výběrového řízení oznamuje uchazečům hospodář. Hospodář je odpovědný i za následné řešení smluvního vztahu.
-6. Hodnocení dodavatelů
-Po realizaci dodávky je hospodář povinen vyhodnotit kvalitu uskutečněné dodávky dle této škály:
-Vynikající plnění, doporučuji případné další nákupy.
-Uspokojivé plnění, ale mohlo by být i lepší.
-Zcela nevyhovující a nevhodný dodavatel.
+  1. Zadavatel musí v rámci záměru stanovit přímého nadřízeného přijímaného. Optimální je, aby byl současně realizátorem pro příslušný záměr.
+  2. Zadavatel musí v rámci záměru stanovit konkrétní náplň práce, na jejíž výkon je hledán pracovník.
+  3. Zadavatel musí v rámci záměru stanovit očekávaný rozsah nakupované práce (měsíční časový rámec, typ pracovního vztahu)
+  4. Realizátor zajistí účelu odpovídající zveřejnění poptávky. Poptávka musí být vždy zveřejněna i na vnitřních (fórum) a vnějších (web) komunikačních prostředcích strany.
+  5. Výběr je vždy dvoukolový. Účelem prvního kola je především vyloučení nevhodných uchazečů (nesplní základní požadavky, uchazeč není ve shodě s politikou strany. Do druhého kola mohou postoupit pouze uchazeči, jejichž případné angažmá může být pro stranu přínosem. První kolo může také sloužit k zúžení počtu hodnocených v druhém kole (s ohledem na pracovní kapacitu hodnotící komise). Do druhého kole může postoupit maximálně 6 uchazečů.
+  6. V druhém kole musí komise se všemi uchazeči ověřovat jejich schopnosti a zájem formou osobního pohovoru (což nevylučuje současně použít i další prostředky ověřování kvalit)
+  7. Realizátor zveřejňuje na informačních systémech strany (fórum) zadávací dokumentaci a odkazy na případnou inzerci (i neplacenou).
+  8. Hodnotící komisi jmenuje zadavetel, práci komise řídí realizátor, který je odpovědný i za celý průběh výběrového řízení. Členy komise vybírá zadavatel z členské základny a v odůvodněných případech přizve i nezávislé odborníky. Členem komise musí být vždy budoucí nadřízený pracovníka. Při zadání jsou určeni i náhradníci do komise. Doporučené složení hodnotící komise: Realizátor (obvykle přímý nadřízený), Zástupce zadavatele, Zástupce Personálního odboru, a dva Odborníci pro příslušnou oblast.
+  9. Budoucí nadřízený pracovníka má právo odmítnout kteréhokoliv uchazeče.
+  10. O průběhu výběrového řízení vede realizátor záznam v určeném informačním prostředku strany ((redmie, fórum)). Uvádí zde termíny a obsah (v přiměřeném rozsahu) jednání hodnotící komise a případnou komunikaci s uchazeči (dotazy-odpovědi apod.)
+  11. Nabídky musí být zasílány na emailovou adresu do schránky, k jejímuž obsahu nebude mít až do termínu ukončení přijímání nabídek nikdo přístup. V případě obdržení písemných nabídek, musí být tyto nerozbaleny až do stanoveného termínu přijímání nabídek. 
+  12. Vzhledem k tomu, že uchazeči předkládají při nabídce osobní informace, musí být v zadávací dokumentaci zveřejněn rozsah informací, které budou po vyhodnocení výběrového řízení zveřejněny. Rozsah zveřejnění obsahu nabídek neúspěšných uchazečů může být značně omezen. Nabídka vítězného uchazeče musí být zveřejněna na vnitřních komunikačních prostředcích strany (po odstranění osobních údajů).
+  13. Budoucí nadřízený stanoví konkrétní kvalitativní parametry potřebné pro výkon práce a uvede je do hodnotící tabulky. Ke každému hodnotícímu parametru stanoví „váhu“ (procentuální podíl na celkovém hodnocení) a hodnotovou škálu (např. body z pořadí uchazečů v hodnoceném parametru).
+  14. S vítězným uchazečem bude uzavřena smlouva dle návrhu České pirátské strany ze dle šablon strany (https://www.pirati.cz/ao/sablony/start)
+  15. Za zveřejnění informací o výběrovém řízení odpovídá realizátor, hodnocení uchazečů jednotlivými členy komise musí být zveřejněno vždy.
+  16. Výsledek výběrového řízení oznamuje uchazečům realizátor. Realizátor je odpovědný i za následné řešení smluvního vztahu.
+
+## § 6 Hodnocení dodavatelů
+Po realizaci dodávky je zadavetel povinen vyhodnotit kvalitu uskutečněné dodávky dle této škály:
+  - Vynikající plnění, doporučuji případné další nákupy.
+  - Uspokojivé plnění, ale mohlo by být i lepší.
+  - Zcela nevyhovující a nevhodný dodavatel.
