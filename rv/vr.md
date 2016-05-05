@@ -7,27 +7,21 @@
  3. Návrh záměru musí určovat **předmět nákupu**, **cenový limit**(§ 10(2) PraH), **typ výběrového řízení**(§ 2) a hospodáře(§ 4 PraH) odpovědného za realizaci nákupu(**realizátora**), případně **prostředky na realizaci** výběru (např. náklady na inzerci). Záměr dále definuje i personální složení **výběrové komise**, pokud je třeba.
 
 ## § 2 Typ výběrového řízení
-  1. **Marketingový průzkum** 
-  
-  Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem MP není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
-  2. **Výběr dodavatele produktu** ((zboží i služeb))
-  
-  Cílem je vybrat konkrétního dodavatele ve veřejném výběrovém řízení. 
-  3. **Výběr zaměstnance**, nebo dodavatele práce
-  Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce.
+  1. **Marketingový průzkum** - Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem MP není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
+  2. **Výběr dodavatele produktu** ((zboží i služeb)) - Cílem je vybrat konkrétního dodavatele ve veřejném výběrovém řízení.  Výběr dodavatele s garantovanou kvalitou a co nejnižší cenou. Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie). 
+  3. **Výběr zaměstnance**, nebo dodavatele práce - Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce.
 
 ## § X Obecné zásady
+  1. //Na informačních prostředcích Pirátů (nyní fórum) hospodář zveřejní text výběru,
+  2. seznam obeslaných a případné odkazy na inzerci.//
 
 ## § 3 Marketingový průzkum
   1. Potřebu marketingového průzkumu může navrhnout realizátor zadavateli, nebo zadavatel v rámci návrhu záměru.(§ 1(2))
-  2. Realizátor stanoví způsob provedení marketingového průzkumu. V případě potřeby navrhne potřebu financování nákladů spojených s realizací průzkumu (např. inzerci). 
-  3. //Na informačních prostředcích Pirátů (nyní fórum) hospodář zveřejní text výběru, seznam obeslaných a případné odkazy na inzerci.//
-  4. Výsledky průzkumu nejsou zveřejněny, ale předloženy zadavateli. Slouží jako podklad pro vypsání konkrétních výběrových řízení. Výsledky budou být zveřejněny až po ukončení následného výběrového řízení.
+  2. Realizátor stanoví způsob provedení marketingového průzkumu. V případě potřeby navrhne potřebu financování nákladů spojených s realizací průzkumu (např. inzerci).
+  3. Výsledky průzkumu nejsou zveřejněny, ale předloženy zadavateli. Slouží jako podklad pro vypsání konkrétních výběrových řízení. Výsledky budou být zveřejněny až po ukončení následného výběrového řízení.
 
 ## § 4 Výběr dodavatele produktů
-  1. Výběr dodavatele s garantovanou kvalitou. 
-  Cílem výběru je vybrat dodavatele s co nejnižší cenou. Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie).
-  2. Zveřejnění zadání výběrového řízení.
+  1. Zveřejnění zadání výběrového řízení.
   Hospodář může pro účely výběru dodavatele použít i aukci. V každém případě je hospodář povinen uveřejnit text zadání výběrového řízení na informačních prostředcích strany ((web)).
   3. V zadávací dokumentaci musí být uveden předmět a termín (období) požadované  dodávky a termín a způsob požadovaného dodání nabídky, případně pravidla aukce. Hodnotícím kritérium je cena. V zadávací dokumentaci musí být jednoznačně stanoveny základní požadavky na dodavatele, které musí být splněny. Návrh smlouvy je součástí nabídky dodavatele, není-li v záměru rozhodnuto jinak.
   4. Nabídky musí být zasílány na emailovou adresu do schránky, k jejímuž obsahu nebude mít až do termínu ukončení přijímání nabídek nikdo přístup (není-li použita aukce).
@@ -35,24 +29,19 @@
   6. Výsledek výběrového řízení oznamuje uchazečům realizátor. Realizátor je odpovědný i za následné řešení smluvního vztahu.  
 
 ## § 5 Výběr dodavatele s požadavky na kvalitu 
-V zadávací dokumentaci musí být jednoznačně uvedeny základní požadavky, které musí nabízející splnit (např. termín, množství, konkrétní parametr)
-Základním požadavkem ověřujícím schopnost dodávky požadovaných produktů jsou reference od jiných zákazníků. Rozsah požadovaných referencí určuje hospodář. Výjimku z požadavku na reference v zadávací dokumentaci může povolit v odůvodněných případech pouze zadávající orgán.
-Hospodář stanoví konkrétní kvalitativní parametry a uvede je do hodnotící tabulky. Ke každému hodnotícímu parametru stanoví „váhu“ (procentuální podíl na celkovém hodnocení) a hodnotovou škálu (např. body z pořadí uchazečů v hodnoceném parametru). Způsob hodnocení musí být uveden v zadávací dokumentaci.
-Hodnotícím parametrem může být i zpětná vazba od referenčních zákazníků, případně i hodnocení Pirátů (u dodavatelů, kteří Pirátské straně již dodávali). V případě negativních referencí může být uchazeč z výběrového řízení vyloučen (zejména v případě předchozí nespokojenosti s příslušným dodavatelem).
-Výběrové řízení může být v odůvodněných případech dvoukolové. Základním důvodem pro dvoukolové výběrové řízení, může být časová náročnost hodnotícího procesu. Cílem prvního kola je výběr menší skupiny nejlepších uchazečů, jejichž další nabídky bude výběrová komise v požadovaných termínech schopna vyhodnotit.
-Hospodář zveřejňuje na informačních systémech strany (fórum) zadávací dokumentaci, obeslané uchazeče a odkazy na případnou inzerci (i neplacenou). V případě dvoukolového výběrového řízení zveřejňuje seznam postupujících do druhého kola a zadávací dokumentaci pro druhé kolo.
-Hodnotící komisi jmenuje zadávající orgán, práci komise řídí realizátor. Členy komise vybírá zadavatel z členské základny a v odůvodněných případech přizve i nezávislé odborníky. Při zadání jsou určeni i náhradníci do komise. Doporučené složení hodnotící komise:
-Realizítor
-Zástupce zadávajícího orgánu
-Zástupce uživatele
-Odborník pro příslušnou oblast
-Odborník pro příslušnou oblast
-O průběhu výběrového řízení vede hospodář záznam v určeném informačním systému strany ((fórum)). Uvádí zde termíny a obsah jednání hodnotící komise a případnou komunikaci s uchazeči (dotazy-odpovědi apod.)
-Nabídky musí být zasílány na emailovou adresu do schránky, k jejímuž obsahu nebude mít až do termínu ukončení přijímání nabídek nikdo přístup. V případě obdržení písemných nabídek, musí být tyto nerozbaleny až do stanoveného termínu přijímání nabídek. 
-Rozsah zveřejnění obsahu nabídek určuje hospodář už v zadávací dokumentaci. Standardní je kompletní zveřejnění předložených nabídek. Omezení zveřejnění některých částí nabídek musí být předem zdůvodněno
-Rozsah zveřejnění výsledků průběhu hodnocení ve výběrovém řízení stanovuje hospodář. Tabulka hodnocení požadavků jednotlivými členy komise musí být zveřejněna vždy.
-Výsledek výběrového řízení oznamuje uchazečům hospodář. Hospodář je odpovědný i za následné řešení smluvního vztahu.  
-5. (c) Výběr zaměstnance, nebo dodavatele práce
+  1. V zadávací dokumentaci musí být jednoznačně uvedeny základní požadavky, které musí nabízející splnit (např. termín, množství, konkrétní parametr)
+  2. Základním požadavkem ověřujícím schopnost dodávky požadovaných produktů jsou reference od jiných zákazníků. Rozsah požadovaných referencí určuje realizátor. Výjimku z požadavku na reference v zadávací dokumentaci může povolit v odůvodněných případech pouze zadavatel.
+  3. Realizátor stanoví konkrétní kvalitativní parametry a uvede je do hodnotící tabulky. Ke každému hodnotícímu parametru stanoví „váhu“ (procentuální podíl na celkovém hodnocení) a hodnotovou škálu (např. body z pořadí uchazečů v hodnoceném parametru). Způsob hodnocení musí být uveden v zadávací dokumentaci.
+  4. Hodnotícím parametrem může být i zpětná vazba od referenčních zákazníků, případně i hodnocení Pirátů (u dodavatelů, kteří Pirátské straně již dodávali). V případě negativních referencí může být uchazeč z výběrového řízení vyloučen (zejména v případě předchozí nespokojenosti s příslušným dodavatelem).
+  5. Výběrové řízení může být v odůvodněných případech vícekolové. Základním důvodem pro vícekolové výběrové řízení, může být časová náročnost hodnotícího procesu. Cílem kola je výběr menší skupiny lepších uchazečů, jejichž další nabídky bude výběrová komise v požadovaných termínech schopna vyhodnotit.
+  6. Realizátor zveřejňuje na informačních systémech strany ((redmine, fórum)) zadávací dokumentaci, obeslané uchazeče a odkazy na případnou inzerci (i neplacenou). V případě vícekolového výběrového řízení zveřejňuje seznam postupujících do dalšího kola a zadávací dokumentaci pro další kolo.
+  7. Hodnotící komisi jmenuje zadavatel, práci komise řídí realizátor. Členy komise vybírá zadavatel z členské základny a v odůvodněných případech přizve i nezávislé odborníky. Při zadání jsou určeni i náhradníci do komise. Doporučené složení hodnotící komise: Realizátor, Zástupce zadávajícího orgánu, Zástupce uživatele a dva Odborníci pro příslušnou oblast.
+  8. O průběhu výběrového řízení vede hospodář záznam v určeném informačním systému strany ((fórum)). Uvádí zde termíny a obsah jednání hodnotící komise a případnou komunikaci s uchazeči (dotazy-odpovědi apod.)
+  9. Nabídky musí být zasílány na emailovou adresu do schránky, k jejímuž obsahu nebude mít až do termínu ukončení přijímání nabídek nikdo přístup. V případě obdržení písemných nabídek, musí být tyto nerozbaleny až do stanoveného termínu přijímání nabídek. 
+  10. Rozsah zveřejnění obsahu nabídek určuje realizátor už v zadávací dokumentaci. Standardní je kompletní zveřejnění předložených nabídek. Omezení zveřejnění některých částí nabídek musí být předem zdůvodněno.
+  11. Rozsah zveřejnění výsledků průběhu hodnocení ve výběrovém řízení stanovuje realizátor. Tabulka hodnocení požadavků jednotlivými členy komise musí být zveřejněna vždy.
+  12. Výsledek výběrového řízení oznamuje uchazečům realizátor. Realizátor je odpovědný i za následné řešení smluvního vztahu.  
+## § 5  Výběr zaměstnance, nebo dodavatele práce
 Zadavatel musí v rámci záměru stanovit přímého nadřízeného přijímaného. Optimální je, aby byl současně hospodářem pro příslušný záměr.
 Zadavatel musí v rámci záměru stanovit konkrétní náplň práce, na jejíž výkon je hledán pracovník.
 Zadavatel musí v rámci záměru stanovit očekávaný rozsah nakupované práce (měsíční časový rámec, typ pracovního vztahu)
