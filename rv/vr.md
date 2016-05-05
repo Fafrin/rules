@@ -7,29 +7,30 @@
  3. Návrh záměru musí určovat **předmět nákupu**, **cenový limit**(§ 10(2) PraH), **typ výběrového řízení**(§ 2) a hospodáře(§ 4 PraH) odpovědného za realizaci nákupu(**realizátora**), případně **prostředky na realizaci** výběru (např. náklady na inzerci). Záměr dále definuje i personální složení **výběrové komise**, pokud je třeba.
 
 ## § 2 Typ výběrového řízení
-  1. **Marketingový průzkum** - Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem MP není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
+  1. **Marketingový průzkum** (§ 4) - Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem MP není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
   2. **Výběr dodavatele produktu** ((zboží i služeb)) - Cílem je vybrat konkrétního dodavatele ve veřejném výběrovém řízení.  Výběr dodavatele s garantovanou kvalitou a co nejnižší cenou. Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie). 
   3. **Výběr zaměstnance**, nebo dodavatele práce - Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce.
 
 ## § X Obecné zásady
-  1. //Na informačních prostředcích Pirátů (nyní fórum) hospodář zveřejní text výběru,
+  1. Realizátor je zodpovědný za zveřejnění výběrového řízení a oslovení alespoň tří vhodných uchazečů.
+  2. Realizátor zveřejňuje zadávací dokumenteci výběrového řízení na vnějších ((web, sociální sitě)) i vnitřních ((web, newsletter)) komunikačních prostředcích strany.
+  2. V zadávací dokumentaci musí být zejména jednoznačně stanoveny základní požadavky na dodavatele (např. termín, množství, konkrétní parametr), které musí být splněny.
   2. seznam obeslaných a případné odkazy na inzerci.//
+  3.  Hodnotící komise ověří splnění základních požadavků. Uchazeči, kteří nesplnili základní podmínky, jsou z hodnocení vyřazeni.
+  4.  Výsledek výběrového řízení oznamuje uchazečům realizátor. Realizátor je odpovědný i za následné řešení smluvního vztahu.
 
 ## § 3 Marketingový průzkum
   1. Potřebu marketingového průzkumu může navrhnout realizátor zadavateli, nebo zadavatel v rámci návrhu záměru.(§ 1(2))
-  2. Realizátor stanoví způsob provedení marketingového průzkumu. V případě potřeby navrhne potřebu financování nákladů spojených s realizací průzkumu (např. inzerci).
-  3. Výsledky průzkumu nejsou zveřejněny, ale předloženy zadavateli. Slouží jako podklad pro vypsání konkrétních výběrových řízení. Výsledky budou být zveřejněny až po ukončení následného výběrového řízení.
+  2. Realizátor stanoví způsob provedení marketingového průzkumu. Případně navrhne zadaveteli potřebu financování nákladů spojených s realizací průzkumu (např. inzerci).
+  3. Výsledky průzkumu nejsou bezprostřeně zveřejněny, ale předloženy zadavateli. Slouží jako podklad pro vypsání konkrétních výběrových řízení. Výsledky jsou zveřejněny až po ukončení následného výběrového řízení.
 
 ## § 4 Výběr dodavatele produktů
-  1. Zveřejnění zadání výběrového řízení.
-  Hospodář může pro účely výběru dodavatele použít i aukci. V každém případě je hospodář povinen uveřejnit text zadání výběrového řízení na informačních prostředcích strany ((web)).
-  3. V zadávací dokumentaci musí být uveden předmět a termín (období) požadované  dodávky a termín a způsob požadovaného dodání nabídky, případně pravidla aukce. Hodnotícím kritérium je cena. V zadávací dokumentaci musí být jednoznačně stanoveny základní požadavky na dodavatele, které musí být splněny. Návrh smlouvy je součástí nabídky dodavatele, není-li v záměru rozhodnuto jinak.
-  4. Nabídky musí být zasílány na emailovou adresu do schránky, k jejímuž obsahu nebude mít až do termínu ukončení přijímání nabídek nikdo přístup (není-li použita aukce).
-  5. Hodnotící komise ověří splnění základních požadavků. Uchazeči, kteří nesplnili základní podmínky, jsou z hodnocení vyřazeni. Z nevyřazených nabídek vybere realizátor nabídku s nejnižší cenou.
-  6. Výsledek výběrového řízení oznamuje uchazečům realizátor. Realizátor je odpovědný i za následné řešení smluvního vztahu.  
+  1. Realizátor může pro účely výběru dodavatele použít i aukci.
+  2. V zadávací dokumentaci musí být uveden předmět a termín (období) požadované dodávky a termín a způsob požadovaného dodání nabídky, případně pravidla aukce. Hodnotícím kritérium je cena. Návrh smlouvy je součástí nabídky dodavatele, není-li v záměru stanoveno jinak.
+  3. Nabídky musí být zasílány na emailovou adresu do schránky, k jejímuž obsahu nebude mít až do termínu ukončení přijímání nabídek nikdo přístup (není-li použita aukce).
+  4. Z nevyřazených nabídek vybere realizátor nabídku s nejnižší cenou.
 
 ## § 5 Výběr dodavatele s požadavky na kvalitu 
-  1. V zadávací dokumentaci musí být jednoznačně uvedeny základní požadavky, které musí nabízející splnit (např. termín, množství, konkrétní parametr)
   2. Základním požadavkem ověřujícím schopnost dodávky požadovaných produktů jsou reference od jiných zákazníků. Rozsah požadovaných referencí určuje realizátor. Výjimku z požadavku na reference v zadávací dokumentaci může povolit v odůvodněných případech pouze zadavatel.
   3. Realizátor stanoví konkrétní kvalitativní parametry a uvede je do hodnotící tabulky. Ke každému hodnotícímu parametru stanoví „váhu“ (procentuální podíl na celkovém hodnocení) a hodnotovou škálu (např. body z pořadí uchazečů v hodnoceném parametru). Způsob hodnocení musí být uveden v zadávací dokumentaci.
   4. Hodnotícím parametrem může být i zpětná vazba od referenčních zákazníků, případně i hodnocení Pirátů (u dodavatelů, kteří Pirátské straně již dodávali). V případě negativních referencí může být uchazeč z výběrového řízení vyloučen (zejména v případě předchozí nespokojenosti s příslušným dodavatelem).
