@@ -16,6 +16,8 @@
   3. **Výběr zaměstnance**, nebo dodavatele práce
   Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce.
 
+## § X Obecné zásady
+
 ## § 3 Marketingový průzkum
   1. Potřebu marketingového průzkumu může navrhnout realizátor zadavateli, nebo zadavatel v rámci návrhu záměru.(§ 1(2))
   2. Realizátor stanoví způsob provedení marketingového průzkumu. V případě potřeby navrhne potřebu financování nákladů spojených s realizací průzkumu (např. inzerci). 
@@ -26,14 +28,11 @@
   1. Výběr dodavatele s garantovanou kvalitou. 
   Cílem výběru je vybrat dodavatele s co nejnižší cenou. Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie).
   2. Zveřejnění zadání výběrového řízení.
-  Hospodář může pro účely výběru dodavatele použít i aukci. V každém případě je hospodář povinen uveřejnit text zadání výběrového řízení na informačních prostředcích strany (web).
-V zadávací dokumentaci musí být uveden předmět a termín (období) požadované  dodávky a termín a způsob požadovaného dodání nabídky, případně pravidla aukce. Hodnotícím kritérium je cena.
-V zadávací dokumentaci musí být jednoznačně stanoveny základní požadavky na dodavatele, které musí být splněny.
-Návrh smlouvy je součástí nabídky dodavatele, není-li v záměru rozhodnuto jinak
-Nabídky musí být zasílány na emailovou adresu do schránky, k jejímuž obsahu nebude mít až do termínu ukončení přijímání nabídek nikdo přístup (není-li použita aukce).
-Hodnotící komise ověří splnění základních požadavků. Uchazeči, kteří nesplnili základní podmínky, jsou z hodnocení vyřazeni. 
-Hospodář vybere z hodnocených nabídek nabídku s nejnižší cenou.
-Výsledek výběrového řízení oznamuje uchazečům hospodář. Hospodář je odpovědný i za následné řešení smluvního vztahu.  
+  Hospodář může pro účely výběru dodavatele použít i aukci. V každém případě je hospodář povinen uveřejnit text zadání výběrového řízení na informačních prostředcích strany ((web)).
+  3. V zadávací dokumentaci musí být uveden předmět a termín (období) požadované  dodávky a termín a způsob požadovaného dodání nabídky, případně pravidla aukce. Hodnotícím kritérium je cena. V zadávací dokumentaci musí být jednoznačně stanoveny základní požadavky na dodavatele, které musí být splněny. Návrh smlouvy je součástí nabídky dodavatele, není-li v záměru rozhodnuto jinak.
+  4. Nabídky musí být zasílány na emailovou adresu do schránky, k jejímuž obsahu nebude mít až do termínu ukončení přijímání nabídek nikdo přístup (není-li použita aukce).
+  5. Hodnotící komise ověří splnění základních požadavků. Uchazeči, kteří nesplnili základní podmínky, jsou z hodnocení vyřazeni. Z nevyřazených nabídek vybere realizátor nabídku s nejnižší cenou.
+  6. Výsledek výběrového řízení oznamuje uchazečům realizátor. Realizátor je odpovědný i za následné řešení smluvního vztahu.  
 
 ## § 5 Výběr dodavatele s požadavky na kvalitu 
 V zadávací dokumentaci musí být jednoznačně uvedeny základní požadavky, které musí nabízející splnit (např. termín, množství, konkrétní parametr)
@@ -68,7 +67,7 @@ Zástupce Personálního odboru
 Odborník pro příslušnou oblast
 Odborník pro příslušnou oblast
 Budoucí nadřízený pracovníka má právo odmítnout kteréhokoliv uchazeče.
-O průběhu výběrového řízení vede hospodář záznam v určeném informačním prostředku strany (fórum). Uvádí zde termíny a obsah (v přiměřeném rozsahu) jednání hodnotící komise a případnou komunikaci s uchazeči (dotazy-odpovědi apod.)
+O průběhu výběrového řízení vede realizátor záznam v určeném informačním prostředku strany ((redmie, fórum)). Uvádí zde termíny a obsah (v přiměřeném rozsahu) jednání hodnotící komise a případnou komunikaci s uchazeči (dotazy-odpovědi apod.)
 Nabídky musí být zasílány na emailovou adresu do schránky, k jejímuž obsahu nebude mít až do termínu ukončení přijímání nabídek nikdo přístup. V případě obdržení písemných nabídek, musí být tyto nerozbaleny až do stanoveného termínu přijímání nabídek. 
 Vzhledem k tomu, že uchazeči předkládají při nabídce osobní informace, musí být v zadávací dokumentaci zveřejněn rozsah informací, které budou po vyhodnocení výběrového řízení zveřejněny. Rozsah zveřejnění obsahu nabídek neúspěšných uchazečů může být značně omezen. Nabídka vítězného uchazeče musí být zveřejněna na vnitřních komunikačních prostředcích strany (po odstranění osobních údajů).
 Budoucí nadřízený stanoví konkrétní kvalitativní parametry potřebné pro výkon práce a uvede je do hodnotící tabulky. Ke každému hodnotícímu parametru stanoví „váhu“ (procentuální podíl na celkovém hodnocení) a hodnotovou škálu (např. body z pořadí uchazečů v hodnoceném parametru).
