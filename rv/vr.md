@@ -9,10 +9,10 @@
  3. Návrh záměru musí určovat **předmět nákupu**, **cenový limit**(§ 10(2) PraH), **typ výběrového řízení**(§ 2) a hospodáře(§ 4 PraH) odpovědného za realizaci nákupu(**realizátora**), případně **prostředky na realizaci** výběru (např. náklady na inzerci). Záměr dále definuje i personální složení **výběrové komise**, pokud je třeba.
 
 ### § 2 Typ výběrového řízení
-  1. **Marketingový průzkum** (§ 6) - Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem MP není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
-  2. **Výběr dodavatele produktu** (§ 7) ((zboží i služeb)) - Cílem je vybrat konkrétního dodavatele ve veřejném výběrovém řízení.
-  3. **Výběr dodavatele s garantovanou kvalitou a co nejnižší cenou.** (§ 8) - Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie). 
-  3. **Výběr zaměstnance**, nebo dodavatele práce (§ 9) - Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce.
+  1. **Marketingový průzkum** (§ 6) - Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem marketidoven0ho pr;ykumu není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
+  2. **Výběr dodavatele produktu** (§ 7) ((zboží i služeb)) - Cílem výběru je vybrat dodavatele s co nejnižší cenou. Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie). 
+  3. **Výběr dodavatele s požadavky na kvalitu** (§ 8) - Cílem je vybrat co nejkvalitnějšího dodavatele v rámci stanovené ceny.
+  4. **Výběr zaměstnance**, nebo dodavatele práce (§ 9) - Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce.
 
 ### § 3 Obecné zásady
   1. Realizátor je zodpovědný za zveřejnění výběrového řízení a oslovení alespoň tří vhodných uchazečů.
@@ -66,7 +66,7 @@
   4. Výběr je vždy dvoukolový. Účelem prvního kola je především vyloučení nevhodných uchazečů((nesplní základní požadavky, uchazeč není ve shodě s politikou strany.)) Do druhého kola mohou postoupit pouze uchazeči, jejichž případné angažmá může být pro stranu přínosem. První kolo může také sloužit k zúžení počtu hodnocených v druhém kole((s ohledem na pracovní kapacitu hodnotící komise)). Druhé kolo se konat nemusí, pokud bude v prvním kole úspěšný pouze jeden kandidát a hodnotící komise jeho nabídku označí za přijatelnou. Do druhého kole může postoupit maximálně 6 uchazečů.
   6. V druhém kole musí komise se všemi uchazeči ověřovat jejich schopnosti a zájem formou osobního pohovoru, což nevylučuje současně použít i další prostředky ověřování kvalit.
   7. Členem komise musí být vždy budoucí nadřízený pracovníka. Doporučené složení hodnotící komise: Realizátor (obvykle přímý nadřízený), Zástupce zadavatele, Zástupce Personálního odboru, a dva Odborníci pro příslušnou oblast.
-  9. Budoucí nadřízený pracovníka má právo odmítnout kteréhokoliv uchazeče.
-  12. Vzhledem k tomu, že uchazeči předkládají při nabídce osobní informace, musí být v zadávací dokumentaci zveřejněn rozsah informací, které budou po vyhodnocení výběrového řízení zveřejněny. Rozsah zveřejnění obsahu nabídek neúspěšných uchazečů může být značně omezen. Nabídka vítězného uchazeče musí být zveřejněna na vnitřních komunikačních prostředcích strany (po odstranění osobních údajů).
-  13. Budoucí nadřízený stanoví konkrétní kvalitativní parametry potřebné pro výkon práce a uvede je do hodnotící tabulky. Ke každému hodnotícímu parametru stanoví „váhu“ (procentuální podíl na celkovém hodnocení) a hodnotovou škálu (např. body z pořadí uchazečů v hodnoceném parametru).
-  14. S vítězným uchazečem bude uzavřena smlouva dle návrhu České pirátské strany ze dle šablon strany ((https://www.pirati.cz/ao/sablony/start))
+  8. Budoucí nadřízený pracovníka má právo odmítnout kteréhokoliv uchazeče.
+  9. Vzhledem k tomu, že uchazeči předkládají při nabídce osobní informace, musí být v zadávací dokumentaci zveřejněn rozsah informací, které budou po vyhodnocení výběrového řízení zveřejněny. Rozsah zveřejnění obsahu nabídek neúspěšných uchazečů může být značně omezen. Nabídka vítězného uchazeče musí být zveřejněna na vnitřních komunikačních prostředcích strany (po odstranění osobních údajů).
+  10. Budoucí nadřízený stanoví konkrétní kvalitativní parametry potřebné pro výkon práce a uvede je do hodnotící tabulky. Ke každému hodnotícímu parametru stanoví „váhu“ (procentuální podíl na celkovém hodnocení) a hodnotovou škálu (např. body z pořadí uchazečů v hodnoceném parametru).
+  11. S vítězným uchazečem bude uzavřena smlouva dle návrhu České pirátské strany ze dle šablon strany ((https://www.pirati.cz/ao/sablony/start))
