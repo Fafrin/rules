@@ -9,9 +9,10 @@
  3. Návrh záměru musí určovat **předmět nákupu**, **cenový limit**(§ 10(2) PraH), **typ výběrového řízení**(§ 2) a hospodáře(§ 4 PraH) odpovědného za realizaci nákupu(**realizátora**), případně **prostředky na realizaci** výběru (např. náklady na inzerci). Záměr dále definuje i personální složení **výběrové komise**, pokud je třeba.
 
 ### § 2 Typ výběrového řízení
-  1. **Marketingový průzkum** (§ 4) - Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem MP není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
-  2. **Výběr dodavatele produktu** (§ 5) ((zboží i služeb)) - Cílem je vybrat konkrétního dodavatele ve veřejném výběrovém řízení.  Výběr dodavatele s garantovanou kvalitou a co nejnižší cenou. Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie). 
-  3. **Výběr zaměstnance**, nebo dodavatele práce - Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce.
+  1. **Marketingový průzkum** (§ 6) - Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem MP není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
+  2. **Výběr dodavatele produktu** (§ 7) ((zboží i služeb)) - Cílem je vybrat konkrétního dodavatele ve veřejném výběrovém řízení.
+  3. **Výběr dodavatele s garantovanou kvalitou a co nejnižší cenou.** (§ 8) - Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie). 
+  3. **Výběr zaměstnance**, nebo dodavatele práce (§ 9) - Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce.
 
 ### § 3 Obecné zásady
   1. Realizátor je zodpovědný za zveřejnění výběrového řízení a oslovení alespoň tří vhodných uchazečů.
@@ -45,7 +46,7 @@
   2. Realizátor stanoví způsob provedení marketingového průzkumu. Případně navrhne zadaveteli potřebu financování nákladů spojených s realizací průzkumu (např. inzerci).
   3. Výsledky průzkumu nejsou bezprostřeně zveřejněny, ale předloženy zadavateli. Slouží jako podklad pro vypsání konkrétních výběrových řízení. Výsledky jsou zveřejněny až po ukončení následného výběrového řízení.
 
-### § 7 Výběr dodavatele produktů
+### § 7 Výběr dodavatele produktu
   1. Realizátor může pro účely výběru dodavatele použít i aukci.
   2. V zadávací dokumentaci musí být uveden předmět a termín (období) požadované dodávky a termín a způsob požadovaného dodání nabídky, případně pravidla aukce. Hodnotícím kritérium je cena. Návrh smlouvy je součástí nabídky dodavatele, není-li v záměru stanoveno jinak.
   3. Pokud je použita aukce, je k zaslaným nabídkám přístup průběžně.
