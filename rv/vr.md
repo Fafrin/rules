@@ -1,18 +1,18 @@
 # Výběrová řízení v České pirátské straně
-//pro nákupy nad 10.000,- Kč//
+//pro záměry nejméně nad 10.000,- Kč, nad 50 000,- Kč povinně//
 
 ## Část obecná
 
 ### § 1 Záměr
- 1. Výběrová řízení(§ 6 PraH) jsou hlavním prostředkem umožňujícím vybrat kvalitního dodavatele produktů a práce.
+ 1. Výběrová řízení(§ 6 PraH) jsou hlavním prostředkem umožňujícím vybírat kvalitní dodavatele produktů a práce.
  2. Potřeba placeného dodavatele musí být stanovena v **záměru**(§ 10 PraH), který schvaluje příslušný orgán strany. **Návrh záměru** předkládá schvalujícímu orgánu příslušná organizační složka (**zadavatel**).(§ 8(1)d) RoPr) 
  3. Návrh záměru musí určovat **předmět nákupu**, **cenový limit**(§ 10(2) PraH), **typ výběrového řízení**(§ 2) a hospodáře(§ 4 PraH) odpovědného za realizaci nákupu(**realizátora**), případně **prostředky na realizaci** výběru (např. náklady na inzerci). Záměr dále definuje i personální složení **výběrové komise**, pokud je třeba.
 
 ### § 2 Typ výběrového řízení
   1. **Marketingový průzkum** (§ 6) - Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem marketidoven0ho pr;ykumu není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
-  2. **Výběr dodavatele produktu** (§ 7) ((zboží i služeb)) - Cílem výběru je vybrat dodavatele s co nejnižší cenou. Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie). 
-  3. **Výběr dodavatele s požadavky na kvalitu** (§ 8) - Cílem je vybrat co nejkvalitnějšího dodavatele v rámci stanovené ceny.
-  4. **Výběr zaměstnance**, nebo dodavatele práce (§ 9) - Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce.
+  2. **Výběr dodavatele produktu** (§ 7) ((zboží i služeb)) - Cílem je vybrat produkt splňující všechny nutné požadavky za co nejnižší cenu. Tento způsob výběru lze aplikovat pouze na produkty, jejichž kvalita nemůže být cenou ovlivněna (např. elektrická energie). 
+  3. **Výběr dodavatele s požadavky na kvalitu** (§ 8) - Cílem je vybrat co nejkvalitnějšího dodavatele v mezích záměrem určené ceny. Členové komise vybýrají dle nich nejlepší řešení.
+  4. **Výběr zaměstnance**, nebo dodavatele práce (§ 9) - Cílem je přijmout zaměstnance nebo vybrat osobu, která bude vykonávat určené práce. Členové komise vybírají dle svého nejlepšího vědomí a svědomí nejlepšího uchazeče na dané místo.
 
 ### § 3 Obecné zásady
   1. Realizátor je zodpovědný za zveřejnění výběrového řízení a oslovení alespoň tří vhodných uchazečů.
