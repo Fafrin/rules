@@ -6,7 +6,7 @@
 ### § 1 Záměr
  1. Výběrová řízení(§ 6 PraH) jsou hlavním prostředkem umožňujícím vybírat kvalitní dodavatele produktů a práce.
  2. Potřeba placeného dodavatele musí být stanovena v **záměru**(§ 10 PraH), který schvaluje příslušný orgán strany. **Návrh záměru** předkládá schvalujícímu orgánu příslušná organizační složka (**zadavatel**).(§ 8(1)d) RoPr) 
- 3. Návrh záměru musí určovat **předmět nákupu**, **cenový limit**(§ 10(2) PraH), **typ výběrového řízení**(§ 2) a hospodáře(§ 4 PraH) odpovědného za realizaci nákupu(**realizátora**), případně **prostředky na realizaci** výběru (např. náklady na inzerci). Záměr dále definuje i personální složení **výběrové komise**, pokud je třeba.
+ 3. Návrh záměru obsahuje **předmět nákupu**, **cenový limit**(§ 10(2) PraH), **typ výběrového řízení**(§ 2) a hospodáře(§ 4 PraH) odpovědného za realizaci nákupu(**realizátora**), případně **prostředky na realizaci** výběru (např. náklady na inzerci). Záměr dále definuje i personální složení **výběrové komise**, pokud je třeba.
 
 ### § 2 Typ výběrového řízení
   1. **Marketingový průzkum** (§ 6) - Cílem je ověřit situaci na trhu, zejména cenovou hladinu, možné termíny dodání a parametry. Cílem marketidoveného průzkumu není určení konkrétního dodavatele a nákup produktů. Provádí se pouze v případech, kdy nemáme dostatek informací k vypsání výběrového řízení na dodávku produktů. Marketingový průzkum slouží jako vstupní informace pro konkrétní výběrová řízení.
