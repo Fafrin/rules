@@ -34,7 +34,8 @@ Tento předpis upravuje rozdělování prostředků v participativním rozpočto
   * a) **volební obvod**, k němuž se přihláška podává,
   * b) označení volebního lídra([/rules/vr|VŘ]), nominovaného krajským sdružením v daném obvodu,
   * c) volební program([/rules/vr#jednotlivy_volebni_program|§ 15 VŘ])((stčí odkazem)),
-  * d) koaliční smlouvu((stačí odkazem)) či jinou smlouvu o volební spolupráci(§ 3 VŘ), je-li v obvodu uzavřena. 
+  * d) koaliční smlouvu((stačí odkazem)) či jinou smlouvu o volební spolupráci(§ 3 VŘ), je-li v obvodu uzavřena,
+  * e) určení výdajové rozpočtové položky či podrobné platební údaje, kam mají být případně získané prostředky převedeny.
 
 (3) Přihláška může obsahovat i další údaje, zejména krátký srozumitelný **popis kampaně** a nebo **výzvu k podpoře** členům, která nesmí přesáhnout délku 200 znaků.
 
@@ -63,7 +64,11 @@ Výše prostředků, kterou určitá kampaň získala v participativním rozpoč
 
 (1) U každé přihlášky se při vyhlášení výsledků hlasování uvede počet hlasů, který získala v hlasování, a tomu odpovídající výše prostředků.
 
-(2) Pokud kampaň v participativním hlasování uspěla, finanční odbor pro něj zaregistruje(([[/rules/ropr#registrace_rozpoctu|§ 14(2) RoPr]])) výdajovou rozpočtovou položku([[/rules/ropr#rozpoctova_polozka|§ 8 RoPr]]) pod názvem kampaně([[#nalezitosti_prihlasky_projektu|(§ 7(2)a)]]), pokud taková již neexistuje, rozpočtovým limitem(([[/rules/ropr#rozpoctova_polozka|§ 8(1)a) RoPr]])) ve výši získaných prostředků([[#ziskane_prostredky_na_projekt|§ 10]]) a příslušným předsednictvem jako hospodařící organizační složkou(([[/rules/ropr#rozpoctova_polozka|§ 8(1)c) RoPr]])); dále jako účel peněz(([[/rules/ropr#rozpoctova_polozka|§ 8(2)a) RoPr]])) odkáže přihlášku kampaně.
+(2) Pokud kampaň v participativním hlasování uspěla, finanční odbor pro něj 
+  * a) zaregistruje(([[/rules/ropr#registrace_rozpoctu|§ 14(2) RoPr]])) výdajovou rozpočtovou položku([[/rules/ropr#rozpoctova_polozka|§ 8 RoPr]]) pod názvem volebního obvodu([[#nalezitosti_prihlasky_projektu|(§ 4(2)a)]]) s rozpočtovým limitem(([[/rules/ropr#rozpoctova_polozka|§ 8(1)a) RoPr]])) ve výši získaných prostředků([[#ziskane_prostredky_na_projekt|§ 10]]) a příslušným předsednictvem jako hospodařící organizační složkou(([[/rules/ropr#rozpoctova_polozka|§ 8(1)c) RoPr]])); dále jako účel peněz(([[/rules/ropr#rozpoctova_polozka|§ 8(2)a) RoPr]])) odkáže přihlášku kampaně, nebo
+  * b) automaticky převede získané prostředky do výdajové rozpočtové položky určené v přihlášce, nebo
+  * c) provede převod na cizí transparentní účet podle údajů v přihlášce.
+ Finanční odbor také automaticky provede všechny pořebné souvysející úpravy. Záměry potřebné k těmto změnám a převodům se považují za schválené celostátním fórem.
 
 == § 10 Záruka provedení kampaně ==
 
