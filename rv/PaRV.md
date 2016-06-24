@@ -70,30 +70,3 @@ Výše prostředků, kterou určitý projekt získal v participativním rozpočt
 (2) Pokud projekt může být zahájen, 
   * a) finanční odbor pro něj zaregistruje(([[/rules/ropr#registrace_rozpoctu|§ 14(2) RoPr]])) výdajovou rozpočtovou položku([[/rules/ropr#rozpoctova_polozka|§ 8 RoPr]]) pod názvem projektu([[#nalezitosti_prihlasky_projektu|(§ 7(2)a)]]), rozpočtovým limitem(([[/rules/ropr#rozpoctova_polozka|§ 8(1)a) RoPr]])) ve výši získaných prostředků([[#ziskane_prostredky_na_projekt|§ 10]]) a příslušným výkonným orgánem jako hospodařící organizační složkou(([[/rules/ropr#rozpoctova_polozka|§ 8(1)c) RoPr]])); dále jako účel peněz(([[/rules/ropr#rozpoctova_polozka|§ 8(2)a) RoPr]])) odkáže přihlášku projektu.
   * b) záměry((viz [[/rules/prah#zamer_a_jeho_celkove_naklady|§§ 10 a 11 PraH]])) z této rozpočtové položky odpovídající přihlášce s výjimkou odměny[[#odmena|(§ 21)]] se považují za schválené bez ohledu na jejich výši.
-
-===== Zahájení a řízení projektu  =====
-
-== § 12 Zahájení projektu ==
-
-Pokud je projekt možné zahájit ([[#vysledek_hlasovani|§ 11(1)b)]]), řešitel zahájí projekt. Pokud řešitel nezahájí v termínu projekt, stává se jeho přihláška nepřijatelnou a dále se k ní nepřihlíží.
-
-== § 13 Doručování ==
-
-Účastníci projektu souhlasí s tím, že k doručování lze používat elektronických nástrojů strany. 
-  * a) Vůči straně mohou ostatní účastníci projektu právně jednat pouze prostřednictvím podatelny příslušného orgánu, ledaže je mu ze zvláštních důvodů třeba zaslat zprávu soukromou zprávou prostřednictvím uživatelského účtu nebo skupiny. 
-  * b) Strana vůči ostatním účastníkům projektu právně jedná prostřednictvím jejich uživatelského účtu. 
-Dodáním zprávy podle tohoto ustanovení platí zpráva za doručenou. 
-
-== § 14 Zánik účasti na projektu ==
-
-(1) Účast strany na projektu nezaniká. Důvodem zániku účasti řešitele na projektu je jen pozbytí způsobilosti být účastníkem projektu nebo závažné porušení povinností řešitele ([[#povinnosti_resitele_projektu|§ 18]]). 
-
-(2) Porušení povinnosti se může dovolat jen účastník, který ho nezpůsobil a je jím dotčen. U nepodstatného porušení smlouvy se požaduje předchozí výzva k nápravě s upozorněním na hrozící následky.
-
-(3) Účast řešitele na projektu zaniká buď rozhodnutím výkonného orgánu z předepsaného důvodu nebo vystoupením řešitele z projektu. Účast na projektu zaniká jen písemným oznámením toho, kdo chce zániku účasti na projektu dosáhnout, všem účastníkům. 
-
-(4) Pokud řešitel přestal být účastníkem projektu, lze její práva a povinnosti bez jejího souhlasu postoupit jinému členovi strany rozhodnutím výkonného orgánu.
-
-== § 15 Prodloužení projektu ==
-
-Pokud je projekt řádně řešen, avšak vyskytla se potřeba jej prodloužit, může výkonný orgán rozhodnout o posunutí řádného termínu ukončení projektu. Trvání projektu je takto možno prodloužit nejvýše na dvojnásobek původní doby řešení. Další nebo opakované prodloužení projektu musí schválit republikové předsednictvo.
