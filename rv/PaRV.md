@@ -32,7 +32,7 @@ Tento předpis upravuje rozdělování prostředků v participativním rozpočto
 
 (2) Přihláška musí obsahovat aspoň následující údaje:
   * a) **volební obvod**, k němuž se přihláška podává,
-  * b) označení volebního lídra([/rules/vr|VŘ]) v daném obvodu,
+  * b) označení volebního lídra([/rules/vr|VŘ]), nominovaného krajským sdružením v daném obvodu,
   * c) volební program([/rules/vr#jednotlivy_volebni_program|§ 15 VŘ])((stčí odkazem)),
   * d) koaliční smlouvu((stačí odkazem)) či jinou smlouvu o volební spolupráci(§ 3 VŘ), je-li v obvodu uzavřena. 
 
